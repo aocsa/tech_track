@@ -158,7 +158,7 @@ Each unit is delivered through three session types:
 
 - Graph representation
 - Searching algorithms
-- Shortest Path
+- Shortest path
 
 ### Sessions
 
