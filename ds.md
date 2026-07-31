@@ -102,7 +102,7 @@ Each unit is delivered through three session types:
 | 06 | reading | pre-work | 5 min | Lists |
 | 07 | seminar | guided | 10 min | Remove Kth node from end |
 | 08 | homework | self-paced | 10 min | Merge two linked lists |
-| 09 | reading | pre-work | 20 min | Stacks and queues |
+| 09 | reading | pre-work | 20 min | Queues and Stacks |
 | 10 | seminar | guided | 20 min | Balanced brackets |
 
 ### More Problems
