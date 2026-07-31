@@ -79,3 +79,48 @@ Each unit is delivered through three session types:
 - **reading** — pre-work, done before the session.
 - **seminar** — guided, worked through together.
 - **homework** — self-paced, completed after the session.
+
+---
+
+## Unit 01: Introduction to Complexity
+
+### Goals
+
+- Differences among best, expected, and worst case behaviours of an algorithm.
+- Asymptotic analysis of upper and expected complexity bounds.
+- Big O notation: formal definition.
+- Complexity classes, such as constant, logarithmic, linear, quadratic, and
+  exponential.
+- Big O notation.
+- Analysis by recursion tree.
+
+### Sessions
+
+| # | Type | Format | Duration | Topic |
+|---|---|---|---|---|
+| 00 | reading | pre-work | 30 min | Introduction to complexity |
+| 01 | reading | pre-work | 30 min | Asymptotic analysis |
+| 02 | seminar | guided | 10 min | Selection sort |
+| 03 | seminar | guided | 10 min | Merge sort |
+| 04 | homework | self-paced | 20 min | Counting inversions |
+
+---
+
+## Unit 02: Complexity in Random Algorithms
+
+### Goals
+
+- Recurrence relations.
+- Master Theorem.
+- Analysis of iterative and recursive algorithms.
+
+### Sessions
+
+| # | Type | Format | Duration | Topic |
+|---|---|---|---|---|
+| 00 | reading | pre-work | 30 min | Complexity analysis |
+| 01 | homework | self-paced | 15 min | Binary Search |
+| 02 | reading | pre-work | 30 min | Random algorithms |
+| 03 | seminar | guided | 10 min | Quick sort |
+| 04 | seminar | guided | 10 min | Quick select |
+| 05 | homework | self-paced | 20 min | Median of medians |

@@ -77,3 +77,69 @@ Each unit is delivered through three session types:
 - **reading** — pre-work, done before the session.
 - **seminar** — guided, worked through together.
 - **homework** — self-paced, completed after the session.
+
+---
+
+## Unit 03: List Data Structures
+
+### Topics
+
+- Strings
+- Arrays
+- Linked Lists
+- Queues and Stacks
+
+### Sessions
+
+| # | Type | Format | Duration | Topic |
+|---|---|---|---|---|
+| 00 | reading | pre-work | 5 min | Strings |
+| 01 | reading | pre-work | 5 min | Arrays |
+| 02 | seminar | guided | 10 min | Valid Anagram problem |
+| 03 | seminar | guided | 10 min | Intersection of two arrays |
+| 04 | homework | self-paced | 20 min | Largest Range |
+| 05 | homework | self-paced | 20 min | Group Anagrams |
+| 06 | reading | pre-work | 5 min | Lists |
+| 07 | seminar | guided | 10 min | Remove Kth node from end |
+| 08 | homework | self-paced | 10 min | Merge two linked lists |
+| 09 | reading | pre-work | 20 min | Stacks and queues |
+| 10 | seminar | guided | 20 min | Balanced brackets |
+
+### More Problems
+
+- Rotate Array
+- Subarray Sort
+- Underscorify Substring
+- Find Loop
+
+---
+
+## Unit 04: Multi-way Data Structures
+
+### Topics
+
+- Binary trees and Binary search trees (BSTs)
+- Sets and Dictionaries
+- Priority queues
+- Hash tables
+
+### Sessions
+
+| # | Type | Format | Duration | Topic |
+|---|---|---|---|---|
+| 00 | reading | pre-work | 10 min | Binary trees and BSTs |
+| 01 | seminar | guided | 10 min | Find closest value in a BST |
+| 02 | homework | self-paced | 10 min | Validate BST |
+| 03 | reading | pre-work | 10 min | Sets and Dictionaries |
+| 04 | reading | pre-work | 10 min | Priority queues |
+| 05 | reading | pre-work | 10 min | Hash tables |
+| 06 | seminar | guided | 15 min | Two Sum problem |
+
+### More Problems
+
+- Branch Sums
+- Max Path Sum in Binary Tree
+- Find Closest Value in BST
+- Validate BST
+- Same BSTs
+- Continuous Median
