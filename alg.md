@@ -67,7 +67,7 @@ The algorithms track is organized into four units, added in the layers that foll
 |---|---|
 | 01 | Introduction to Complexity |
 | 02 | Complexity in Random Algorithms |
-| 05 | Algorithms Strategy |
+| 05 | Algorithmic Strategy |
 | 06 | Graph Algorithms |
 
 Units 03 and 04 cover data structures and live in [ds.md](ds.md).
