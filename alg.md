@@ -122,3 +122,64 @@ Each unit is delivered through three session types:
 | 03 | seminar | guided | 10 min | Quick sort |
 | 04 | seminar | guided | 10 min | Quick select |
 | 05 | homework | self-paced | 20 min | Median of medians |
+
+---
+
+## Unit 05: Algorithms Strategy
+
+### Topics
+
+- Brute Force
+- Recursion and Divide-and-conquer
+- Dynamic Programming
+
+### Sessions
+
+| # | Type | Format | Duration | Topic |
+|---|---|---|---|---|
+| 00 | reading | pre-work | 10 min | Recursion and divide and conquer |
+| 01 | reading | pre-work | 10 min | Dynamic Programming |
+| 02 | seminar | guided | 10 min | Fibonacci |
+| 03 | seminar | guided | 15 min | Hanoi |
+| 04 | seminar | guided | 15 min | Number of Ways to Make Change |
+
+### More Problems
+
+- Min Number of Coins for Change
+- Min Number of Jumps
+- Knapsack Problem
+- Longest String Chain
+
+---
+
+## Unit 06: Graph Algorithms
+
+### Topics
+
+- Graph representation
+- Searching algorithms
+- Shortest Path
+
+### Sessions
+
+| # | Type | Format | Duration | Topic |
+|---|---|---|---|---|
+| 00 | reading | pre-work | 30 min | Graphs and representation |
+| 01 | reading | pre-work | 30 min | Searching Algorithms |
+| 02 | seminar | guided | 10 min | Depth-first Search |
+| 03 | seminar | guided | 10 min | Breadth-first Search |
+| 04 | homework | self-paced | 20 min | Simple Shortest Path |
+| 05 | seminar | guided | 15 min | Bellman-Ford algorithm |
+
+### More Problems
+
+- Airport Connections
+- Number of Islands
+- Youngest Common Ancestor
+- River Sizes
+
+---
+
+## Author
+
+Alexander Ocsa

@@ -143,3 +143,64 @@ Each unit is delivered through three session types:
 - Validate BST
 - Same BSTs
 - Continuous Median
+
+---
+
+## Practice Index
+
+A consolidated view of every problem in the data structures track, grouped by the
+structure it exercises. Use this as a drill list once you have completed both units.
+
+### Strings
+
+| Problem | Unit | Format |
+|---|---|---|
+| Valid Anagram problem | 03 | seminar |
+| Group Anagrams | 03 | homework |
+| Underscorify Substring | 03 | more problems |
+
+### Arrays
+
+| Problem | Unit | Format |
+|---|---|---|
+| Intersection of two arrays | 03 | seminar |
+| Largest Range | 03 | homework |
+| Rotate Array | 03 | more problems |
+| Subarray Sort | 03 | more problems |
+
+### Linked Lists
+
+| Problem | Unit | Format |
+|---|---|---|
+| Remove Kth node from end | 03 | seminar |
+| Merge two linked lists | 03 | homework |
+| Find Loop | 03 | more problems |
+
+### Stacks and Queues
+
+| Problem | Unit | Format |
+|---|---|---|
+| Balanced brackets | 03 | seminar |
+
+### Binary Search Trees
+
+| Problem | Unit | Format |
+|---|---|---|
+| Find closest value in a BST | 04 | seminar |
+| Validate BST | 04 | homework |
+| Branch Sums | 04 | more problems |
+| Max Path Sum in Binary Tree | 04 | more problems |
+| Same BSTs | 04 | more problems |
+
+### Hash Tables and Priority Queues
+
+| Problem | Unit | Format |
+|---|---|---|
+| Two Sum problem | 04 | seminar |
+| Continuous Median | 04 | more problems |
+
+---
+
+## Author
+
+Alexander Ocsa
