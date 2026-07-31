@@ -89,9 +89,7 @@ Each unit is delivered through three session types:
 - Differences among best, expected, and worst case behaviours of an algorithm.
 - Asymptotic analysis of upper and expected complexity bounds.
 - Big O notation: formal definition.
-- Complexity classes, such as constant, logarithmic, linear, quadratic, and
-  exponential.
-- Big O notation.
+- Complexity classes, such as constant, logarithmic, linear, quadratic, and exponential.
 - Analysis by recursion tree.
 
 ### Sessions
